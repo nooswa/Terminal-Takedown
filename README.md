@@ -8,7 +8,7 @@ Terminal Takedown is a 2D rogue-like, wave-based combat game that transforms com
 - [@nooswa](https://github.com/nooswa)
 - [@donaruni](https://github.com/donaruni)
 - [@autlenci](https://github.com/autlenci)
-- [@Irdzfs](https://github.com/Irdzfs)
+- [@lrdzfs](https://github.com/lrdzfs)
 - [@bellivv](https://github.com/bellivv)
 
 ## 🎮 Core Mechanics
